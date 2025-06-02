@@ -1,3 +1,4 @@
+
 # VetHub – A Personal Veterinary Learning Portal
 
 ## 📘 Overview
@@ -31,3 +32,7 @@ This project is actively being developed as I learn and improve. Next steps:
 
 ## 📄 License
 This is a personal learning project. All content is original unless noted. Please contact me for any use beyond educational purposes.
+
+# tanookiguide
+Veterinary Medicine Study Guide/ToolKit
+
